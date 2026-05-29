@@ -1,0 +1,2 @@
+# EEG-Signal-Classification-Using-Deep-CNNs-with-Multi-Level-Supervision
+This repository contains the official PyTorch implementation, experimental configurations, and deployment benchmarks for the framework proposed in the manuscript: "A Novel Few-Shot Learning Framework for EEG Signal Classification Using Deep Convolutional Neural Networks with Multi-Level Supervision"  submitted to  The Visual Computer .
